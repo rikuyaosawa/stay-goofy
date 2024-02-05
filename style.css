@@ -1,0 +1,21 @@
+body {
+    margin-top: 20px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+}
+
+#funny-baby {
+    border:yellow 5px solid;
+}
+
+h1 {
+    font-weight: bold;
+    color: yellow;
+    text-transform: uppercase;
+}
+
+p {
+    color: white;
+    font-style: italic;
+}
